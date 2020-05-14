@@ -1,5 +1,6 @@
 def start_counting():
-	for i in range(11):
-        return i
+	for i in range(10):
 		print(i)
+	return i
+
 start_counting()
